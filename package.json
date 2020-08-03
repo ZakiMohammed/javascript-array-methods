@@ -1,0 +1,24 @@
+{
+  "name": "array-methods",
+  "version": "1.0.0",
+  "description": "JavaScript array methods for living",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZakiMohammed/javascript-array-methods.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "array",
+    "methods"
+  ],
+  "author": "Zaki Mohammed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZakiMohammed/javascript-array-methods/issues"
+  },
+  "homepage": "https://github.com/ZakiMohammed/javascript-array-methods#readme"
+}
